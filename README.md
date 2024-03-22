@@ -31,6 +31,9 @@ Something I'd do when it comes to massive datasets but you want quick pulls, cre
 
 If a trigger isn't a good fit you could just write a CRON to populate the stats table or have whatever the page/endpoint is that is handling the sales stuff do the updates.
 
+### See it in action
+https://tanktop-doctor.kytschi.com/
+
 ## Task 2 - Design
 
 Design a data flow chart for the following:
