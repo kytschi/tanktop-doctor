@@ -1,5 +1,13 @@
 <?php
 
+/**
+ * Tanktop Doctor - some sales report app I guess :-P
+ *
+ * @package     App\Http\Controllers\Controller
+ * @author      Mike Welsh <hello@kytschi.com>
+ * @link        https://kytschi.com
+ */
+
 use App\Http\Controllers\Controller;
 
 $date = null;
